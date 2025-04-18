@@ -15,13 +15,6 @@ This **Student Management System** is a simple Bash script that allows teachers 
   - Secure login using roll number and password.
   - View assigned marks, grades, and CGPA.
 
-## Project Goals 🏆
-This repository is designed to demonstrate:
-- **Technical proficiency** in Bash scripting and file handling.
-- **Clean code structure**, with meaningful commits and well-organized files.
-- **Proper documentation**, including usage instructions and inline comments.
-- **Professional presentation** on GitHub, contributing to an impressive portfolio.
-
 ## Installation & Usage 🚀
 To use this system:
 1. Clone this repository:
